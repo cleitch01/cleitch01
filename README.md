@@ -31,7 +31,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px" />
 </p>
 
-<h3 align="right">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>&nbsp;
 <p align="right">
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" width="25" /></a>&nbsp;
 <a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" width="25" /></a>&nbsp;
