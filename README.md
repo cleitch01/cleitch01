@@ -34,7 +34,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 <h3 align="right">Connect with me: <em>(Under Development)</em></h3>
 <p align="right">
-<a href="https://google.com/cleitch" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" alt="cleitch" width="25" /></a>&nbsp;
+<a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" alt="cleitch" width="25" /></a>&nbsp;
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" width="25" /></a>&nbsp;
 <a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" width="25" /></a>&nbsp;
 <a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="25" /></a>&nbsp;
