@@ -1,4 +1,4 @@
-# Hi everyone, I'm Col - aka: <em>CodeSlinger</em> 🖥️💻📱
+# Hi everyone, I'm <em>Col</em> 🖥️💻📱
 
 👋🏻 Hello, Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
