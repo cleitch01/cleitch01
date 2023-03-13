@@ -30,3 +30,12 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" align="left" alt="Git" width="26px" />
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" align="left" alt="GitHub" width="26px" />
 </div>
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://codepen.io/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleitch01" height="30" width="40" /></a>
+<a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitch01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" height="30" width="40" /></a>
+<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" height="30" width="40" /></a>
+<a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" height="30" width="40" /></a>
+</p>
