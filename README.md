@@ -33,9 +33,9 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" height="26" width="26" /></a>
-<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" height="26" width="26" /></a>
-<a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="26" /></a>
-<a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitch01" width="26" /></a>
-<a href="https://codepen.io/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleitch01" width="26" /></a>
+<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" height="26" width="26" /></a>&nbsp;
+<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" height="26" width="26" /></a>&nbsp;
+<a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="26" /></a>&nbsp;
+<a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitch01" width="26" /></a>&nbsp;
+<a href="https://codepen.io/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleitch01" width="26" /></a>&nbsp;
 </p>
