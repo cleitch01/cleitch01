@@ -27,6 +27,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="26px" />&nbsp;
 <img src="https://user-images.githubusercontent.com/126211151/224826443-22d822b8-fb39-4228-bec2-ea360d4b562f.svg" title="Node.js" alt="Node.js" width="26" />&nbsp;
 <img src="https://user-images.githubusercontent.com/126211151/222702561-2d385921-5d6c-4066-8727-f7425ce417ca.png" title="SQL" alt="SQL" width="22px" />&nbsp;
+<img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px" />&nbsp;
 <img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" alt="Git" width="26px" />&nbsp;
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px" />
 </p>
