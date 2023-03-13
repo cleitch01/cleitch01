@@ -34,6 +34,9 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 <h3 align="right">Connect with me: <em>(Under Development)</em></h3>
 <p align="right">
+
+
+<a href="https://web.com/cleitch" target="blank"><img align="center" src=""https://user-images.githubusercontent.com/126211151/224851916-2d2c252b-ccfa-4b26-9652-5b016b7aa8f6.svg" alt="cleitch" width="25" /></a>&nbsp;
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" width="25" /></a>&nbsp;
 <a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" width="25" /></a>&nbsp;
 <a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="25" /></a>&nbsp;
