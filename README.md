@@ -19,7 +19,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ### Languages and Tools:
 
-<div>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" align="left" alt="Visual Studio Code" width="26px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" align="left" alt="HTML5" width="26px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" align="left" alt="CSS3" width="26px" />
@@ -29,12 +29,12 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <img src="https://user-images.githubusercontent.com/126211151/222702561-2d385921-5d6c-4066-8727-f7425ce417ca.png" title="SQL" align="left" alt="SQL" width="22px" />
 <img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" align="left" alt="Git" width="26px" />
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" align="left" alt="GitHub" width="26px" />
-</div>
+</p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" height="26" width="26" /></a>&nbsp;
-<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" height="26" width="26" /></a>&nbsp;
+<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" width="26" /></a>&nbsp;
+<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" width="26" /></a>&nbsp;
 <a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="26" /></a>&nbsp;
 <a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitch01" width="26" /></a>&nbsp;
 <a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleitch01" width="26" /></a>&nbsp;
