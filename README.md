@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="95%" src="https://user-images.githubusercontent.com/126211151/224875100-6f3709e7-ff5e-4a9e-bbf3-fdc5dd4845fd.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/126211151/224875100-6f3709e7-ff5e-4a9e-bbf3-fdc5dd4845fd.png">
 </p>
 
 <p align="center">
@@ -39,6 +39,8 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" alt="Git" width="26px" />&nbsp;
 <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px" />
 </p>
+
+---
 
 <h3 align="right">Connect with me: <em>(Under Development)</em></h3>
 <p align="right">
