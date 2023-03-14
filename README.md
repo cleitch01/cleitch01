@@ -1,7 +1,11 @@
 <p align="center">
   <img width="95%" src="https://user-images.githubusercontent.com/126211151/224875100-6f3709e7-ff5e-4a9e-bbf3-fdc5dd4845fd.png">
 </p>
-🖥️💻📱
+
+<p align="center">
+🖥️&nbsp;💻&nbsp;📱</p>
+
+---
 
 👋🏻 Hello, Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
