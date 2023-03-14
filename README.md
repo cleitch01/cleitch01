@@ -26,16 +26,16 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="26px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="26px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="26px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="26px">&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="26px">&nbsp;
-<img src="https://user-images.githubusercontent.com/126211151/224826443-22d822b8-fb39-4228-bec2-ea360d4b562f.svg" title="Node.js" alt="Node.js" width="26">&nbsp;
-<img src="https://user-images.githubusercontent.com/126211151/222702561-2d385921-5d6c-4066-8727-f7425ce417ca.png" title="SQL" alt="SQL" width="22px">&nbsp;
-<img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" alt="Git" width="26px">&nbsp;
-<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px">
+<a href="https://figma.com/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px"></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="26px"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="26px"></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/css/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="26px"></a>&nbsp;
+<a href="https://sass-lang.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="26px">&nbsp;
+<a href="https://www.javascript.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="26px"></a>&nbsp;
+<a href="https://nodejs.org/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224826443-22d822b8-fb39-4228-bec2-ea360d4b562f.svg" title="Node.js" alt="Node.js" width="26"></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/222702561-2d385921-5d6c-4066-8727-f7425ce417ca.png" title="SQL" alt="SQL" width="22px"></a>&nbsp;
+<a href="https://git-scm.com/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224826419-ee338795-2a9c-43d7-9c27-18c397f25bde.svg" title="Git" alt="Git" width="26px"></a>&nbsp;
+<a href="https://github.com/" target="blank"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px"></a>
 </p>
 
 ---
