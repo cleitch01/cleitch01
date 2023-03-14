@@ -35,9 +35,13 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <h3 align="right">Connect with me: <em>(Under Development)</em></h3>
 <p align="right">
 <a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" alt="cleitch" width="25" /></a>&nbsp;
-<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleitch" width="25" /></a>&nbsp;
-<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleitch01" width="25" /></a>&nbsp;
-<a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cleitch01" width="25" /></a>&nbsp;
-<a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleitch01" width="25" /></a>&nbsp;
-<a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleitch01" width="25" /></a>
+<a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858541-40f00a2f-8dbb-442a-a670-2f85d2e7d212.svg" alt="cleitch" width="25" /></a>&nbsp;
+<a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858988-2a314be1-c89b-4f3b-baf5-971fa4b11899.svg" alt="cleitch01" width="25" /></a>&nbsp;
+<a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859182-9d079871-b31c-4225-af90-40c2aa64805f.svg" alt="cleitch01" width="25" /></a>&nbsp;
+<a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859314-bd2ec9ac-7447-4bcf-9302-96676917c80b.svg" alt="cleitch01" width="25" /></a>&nbsp;
+<a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224860355-dce68fb7-abe8-4986-ae88-9552d2966ed0.svg" alt="cleitch01" width="25" /></a>
 </p>
+
+
+
+
