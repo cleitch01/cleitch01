@@ -1,4 +1,7 @@
-# Hi everyone, I'm <em>Col</em> 🖥️💻📱
+<p align="center">
+  <img width="90%" src="https://user-images.githubusercontent.com/126211151/224875100-6f3709e7-ff5e-4a9e-bbf3-fdc5dd4845fd.png">
+</p>
+🖥️💻📱
 
 👋🏻 Hello, Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
@@ -41,7 +44,3 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859314-bd2ec9ac-7447-4bcf-9302-96676917c80b.svg" alt="cleitch01" width="25" /></a>&nbsp;
 <a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224860355-dce68fb7-abe8-4986-ae88-9552d2966ed0.svg" alt="cleitch01" width="25" /></a>
 </p>
-
-
-
-
