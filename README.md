@@ -12,7 +12,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 ### I'm a Father, Developer, and would you believe it!! Self-Employed:
 
-🧑‍💻 I used to Dream Weave now it's VS Code <br>
+💻 I used to Dream Weave now it's VS Code <br>
 📚 I’m currently learning everything <br>
 ✈️ I hope to connect with other like-minded individuals and learn from their experiences <br>
 👀 I'm looking forward to contributing to projects and collaborating with others <br>
