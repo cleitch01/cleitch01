@@ -3,22 +3,23 @@
 </p>
 
 <p align="center">
-🖥️&nbsp;💻&nbsp;📱</p>
+🖥️&nbsp;💻&nbsp;📱 </p>
 
 ---
 
-👋🏻 Hello, Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
+### 👋🏻Hello
+Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
 ---
 
 ### I'm a Father, Developer, and would you believe it!! Self-Employed:
 
-🧑‍💻 I used to Dream Weave now it's VS Code
-📚 I’m currently learning everything
-✈️ I hope to connect with other like-minded individuals and learn from their experiences
-👀 I'm looking forward to contributing to projects and collaborating with others
-🕸️ 2023 Goal: Learn more Ups & downs about Front-End Web Development
-🧗🏻‍♀️ Fact: I love to mountaineer, create code and build models
+🧑‍💻 I used to Dream Weave now it's VS Code <br>
+📚 I’m currently learning everything <br>
+✈️ I hope to connect with other like-minded individuals and learn from their experiences <br>
+👀 I'm looking forward to contributing to projects and collaborating with others <br>
+🕸️ 2023 Goal: Learn more Ups & downs about Front-End Web Development <br>
+🧗🏻‍♀️ Fact: I love to mountaineer, create code and build models <br>
 
 Thank you for taking the time to read my info, and I look forward to getting involved in the GitHub community!👍
 
