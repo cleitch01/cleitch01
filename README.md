@@ -1,5 +1,4 @@
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/126211151/224875100-6f3709e7-ff5e-4a9e-bbf3-fdc5dd4845fd.png" title="My Banner" alt="Banner">
-
+![github_banner](https://user-images.githubusercontent.com/126211151/225478085-ada82de4-f63b-4b57-8d84-286dbab525de.svg)
 <p align="center">
 🖥️&nbsp;💻&nbsp;📱 </p>
 
