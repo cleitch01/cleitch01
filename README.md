@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/126211151/225487153-389b8680-28fc-4dda-8514-b1521107417d.svg)
+![banner](https://user-images.githubusercontent.com/126211151/225632731-25ddda2e-d6e3-4939-b7e2-161e27a27d82.svg)
 <p align="center">
 🖥️&nbsp;💻&nbsp;📱 </p>
 
@@ -48,3 +48,6 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859314-bd2ec9ac-7447-4bcf-9302-96676917c80b.svg" title="Twitter" alt="cleitch01" width="25"></a>&nbsp;
 <a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224860355-dce68fb7-abe8-4986-ae88-9552d2966ed0.svg" title="CodePen" alt="cleitch01" width="25"></a>
 </p>
+
+
+
