@@ -41,7 +41,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 <h3 align="right">Connect with me: <em>(Under Development)</em></h3>
 <p align="right">
-<a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" title="Web" alt="cleitch" width="25"></a>&nbsp;
+<a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" title="Website" alt="cleitch" width="25"></a>&nbsp;
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858541-40f00a2f-8dbb-442a-a670-2f85d2e7d212.svg" title="Facebook" alt="cleitch" width="25"></a>&nbsp;
 <a href="https://linkedin.com/in/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858988-2a314be1-c89b-4f3b-baf5-971fa4b11899.svg" title="Linkedin" alt="cleitch01" width="25"></a>&nbsp;
 <a href="https://instagram.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859182-9d079871-b31c-4225-af90-40c2aa64805f.svg" title="Instagram" alt="cleitch01" width="25"></a>&nbsp;
