@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/126211151/225478085-ada82de4-f63b-4b57-8d84-286dbab525de.svg)
+![github_banner](https://user-images.githubusercontent.com/126211151/225487153-389b8680-28fc-4dda-8514-b1521107417d.svg)
 <p align="center">
 🖥️&nbsp;💻&nbsp;📱 </p>
 
