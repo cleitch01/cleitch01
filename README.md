@@ -22,7 +22,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ---
 
-### Craft masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
+### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
 
 <p align="left">
 <a href="https://figma.com/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px"></a>&nbsp;
