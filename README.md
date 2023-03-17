@@ -9,7 +9,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 ---
 
-### I'm a Father, Developer, and would you believe it!! Self-Employed:
+### I'm a Father, Developer, and would you believe it!! Self-Employed :-
 
 💻  I used to Dream Weave now it's VS Code <br>
 📚  I’m currently learning everything <br>
@@ -22,7 +22,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ---
 
-### Languages and Tools:
+### Tools for creating masterpieces for the <em>Modern Age</em> :-
 
 <p align="left">
 <a href="https://figma.com/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px"></a>&nbsp;
@@ -39,7 +39,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ---
 
-<h3 align="right">Connect with me: <em>(Under Development)</em></h3>
+<h3 align="right">Connect with me :- <em>(Under Development)</em></h3>
 <p align="right">
 <a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" title="Website" alt="cleitch" width="25"></a>&nbsp;
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858541-40f00a2f-8dbb-442a-a670-2f85d2e7d212.svg" title="Facebook" alt="cleitch" width="25"></a>&nbsp;
