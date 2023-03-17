@@ -4,11 +4,13 @@
 
 ![Line](https://user-images.githubusercontent.com/126211151/226000067-cfe77213-b37a-49c9-b6e1-7c650b3b0d6f.svg)
 
+---
 ### :octocat: Hello
 Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
 ![Line](https://user-images.githubusercontent.com/126211151/226000093-acb9aa92-e9f9-47a5-9e90-084c5c7d7435.svg)
 
+---
 ### I'm a Father, Developer, and would you believe it!! Self-Employed :-
 
 💻  I used to Dream Weave now it's VS Code <br>
@@ -22,6 +24,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ![Line](https://user-images.githubusercontent.com/126211151/225999757-8e6c8a58-fca4-44be-9bbb-7056c878e673.svg)
 
+---
 ### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
 
 <p align="left">
@@ -39,6 +42,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ![Line](https://user-images.githubusercontent.com/126211151/225999729-52e56baa-7b4b-434d-9822-27dbc353457b.svg)
 
+---
 <strong align="left"> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ---->👇🏻</strong>
 <p align="right">
 <a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" title="Website" alt="cleitch" width="25"></a>&nbsp;
@@ -50,6 +54,8 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 </p>
 
 ![Line](https://user-images.githubusercontent.com/126211151/225999521-8d3bb088-8672-490a-abb6-8efab692dbb1.svg)
+
+---
 
 
 
