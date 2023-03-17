@@ -2,12 +2,12 @@
 <p align="center">
 🖥️&nbsp;💻&nbsp;📱 </p>
 
----
+![Line](https://user-images.githubusercontent.com/126211151/226000067-cfe77213-b37a-49c9-b6e1-7c650b3b0d6f.svg)
 
 ### :octocat: Hello
 Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
----
+![Line](https://user-images.githubusercontent.com/126211151/226000093-acb9aa92-e9f9-47a5-9e90-084c5c7d7435.svg)
 
 ### I'm a Father, Developer, and would you believe it!! Self-Employed :-
 
@@ -20,7 +20,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 Thank you for taking the time to read my info, and I look forward to getting involved in the GitHub community! 👍
 
----
+![Line](https://user-images.githubusercontent.com/126211151/225999757-8e6c8a58-fca4-44be-9bbb-7056c878e673.svg)
 
 ### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
 
@@ -37,7 +37,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://github.com/" target="blank"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px"></a>
 </p>
 
----
+![Line](https://user-images.githubusercontent.com/126211151/225999729-52e56baa-7b4b-434d-9822-27dbc353457b.svg)
 
 <strong align="left"> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ---->👇🏻</strong>
 <p align="right">
@@ -48,6 +48,9 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://twitter.com/cleitch01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224859314-bd2ec9ac-7447-4bcf-9302-96676917c80b.svg" title="Twitter" alt="cleitch01" width="25"></a>&nbsp;
 <a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224860355-dce68fb7-abe8-4986-ae88-9552d2966ed0.svg" title="CodePen" alt="cleitch01" width="25"></a>
 </p>
+
+![Line](https://user-images.githubusercontent.com/126211151/225999521-8d3bb088-8672-490a-abb6-8efab692dbb1.svg)
+
 
 
 
