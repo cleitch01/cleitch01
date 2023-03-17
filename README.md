@@ -39,7 +39,6 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038334-c4aa7a88-4902-4cc5-882f-f96a27475107.svg)
 
-<strong align="left"> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ---->👇🏻</strong>
 <p align="right">
 <a href="https://google.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224855075-fb6b57a1-2447-4a91-9c50-a4e69a1c2441.svg" title="Website" alt="cleitch" width="25"></a>&nbsp;
 <a href="https://fb.com/cleitch" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224858541-40f00a2f-8dbb-442a-a670-2f85d2e7d212.svg" title="Facebook" alt="cleitch" width="25"></a>&nbsp;
