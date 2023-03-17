@@ -2,13 +2,13 @@
 <p align="center">
 🖥️&nbsp;💻&nbsp;📱 </p>
 
-![Line](https://user-images.githubusercontent.com/126211151/226000067-cfe77213-b37a-49c9-b6e1-7c650b3b0d6f.svg)
+![Line](https://user-images.githubusercontent.com/126211151/226034952-786b8263-9132-4a4c-b62f-835a24af3413.svg)
 
 ---
 ### :octocat: Hello
 Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
-![Line](https://user-images.githubusercontent.com/126211151/226000093-acb9aa92-e9f9-47a5-9e90-084c5c7d7435.svg)
+![Line](https://user-images.githubusercontent.com/126211151/226035038-6521a9e5-75ea-4b0a-80e5-0ba170d9ed2a.svg)
 
 ---
 ### I'm a Father, Developer, and would you believe it!! Self-Employed :-
@@ -22,7 +22,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 Thank you for taking the time to read my info, and I look forward to getting involved in the GitHub community! 👍
 
-![Line](https://user-images.githubusercontent.com/126211151/225999757-8e6c8a58-fca4-44be-9bbb-7056c878e673.svg)
+![Line](https://user-images.githubusercontent.com/126211151/226035140-c6665892-d86b-4a86-acef-c35af9508493.svg)
 
 ---
 ### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
@@ -40,7 +40,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://github.com/" target="blank"><img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" title="GitHub" alt="GitHub" width="26px"></a>
 </p>
 
-![Line](https://user-images.githubusercontent.com/126211151/225999729-52e56baa-7b4b-434d-9822-27dbc353457b.svg)
+![Line](https://user-images.githubusercontent.com/126211151/226035235-d84b68a4-c615-40b9-add0-ff98c47899d6.svg)
 
 ---
 <strong align="left"> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ----> ---->👇🏻</strong>
@@ -53,7 +53,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 <a href="https://codepen.io/Col-l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126211151/224860355-dce68fb7-abe8-4986-ae88-9552d2966ed0.svg" title="CodePen" alt="cleitch01" width="25"></a>
 </p>
 
-![Line](https://user-images.githubusercontent.com/126211151/225999521-8d3bb088-8672-490a-abb6-8efab692dbb1.svg)
+![Line](https://user-images.githubusercontent.com/126211151/226035314-87e716ab-2523-4a48-8702-e8a014df6618.svg)
 
 ---
 
