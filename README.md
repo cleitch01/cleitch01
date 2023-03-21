@@ -9,7 +9,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038150-d6f23b1f-9e59-438d-83a2-a6bdb1bbba4c.svg)
 
-### I'm a Father, Developer, and would you believe it!! Self-Employed :-
+### I'm a Father of two, here to apply what I learned and gain practical experience:-
 
 💻  I used to Dream Weave now it's VS Code <br>
 📚  I’m currently learning everything <br>
@@ -22,7 +22,7 @@ Thank you for taking the time to read my info, and I look forward to getting inv
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038234-178d3604-998e-49d4-842e-fa2e404fb346.svg)
 
-### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
+### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages:-
 
 <p align="left">
 <a href="https://figma.com/" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px"></a>&nbsp;
