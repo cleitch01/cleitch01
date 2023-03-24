@@ -4,12 +4,16 @@
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038033-ce8e74b0-a3d6-4bfa-be36-67b438e6f9d2.svg)
 
-### :octocat: Hello
+### <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="21px">Hello
 Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, Hei, Bonjour, Hallo, Γειά σου, שלום, नमस्ते, Halló, こんにちは , Dia dhuit, Ciao, Witam, olá, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hola, Hallå, 你好, Merhaba, привіт, Xin chào, Helo, Sawubona, வணக்கம். 🙋‍♂️
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038150-d6f23b1f-9e59-438d-83a2-a6bdb1bbba4c.svg)
 
-### 👋I'm a Father of two, here to apply what I learned and gain practical experience:-
+### :octocat: I'm a Father of two, here to apply what I learned and gain practical experience :-
+
+
+
+
 
 💻  I used to Dream Weave now it's VS Code <br>
 📚  I’m currently learning everything <br>
@@ -18,11 +22,11 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 🕸️  2023 Goal: Learn more Ups & downs about Front-End Web Development <br>
 🧗🏻‍♀️  Fact: I love to mountaineer, create code and build models <br>
 
-Thank you for taking the time to read my info, and I look forward to getting involved in the GitHub community! 👍
+Thank you for taking the time to read my info, and I look forward to getting involved in the GitHub community!👍
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038234-178d3604-998e-49d4-842e-fa2e404fb346.svg)
 
-### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages:-
+### Dev masterpieces with these <em>Cutting-Edge</em> Tools and Languages :-
 
 <p align="left">
 <a href="https://figma.com" target="blank"><img src="https://user-images.githubusercontent.com/126211151/224844719-95f49578-51e3-4b5e-b7f3-5ad1e28648db.svg" title="Figma" alt="Figma" width="26px"></a>&nbsp;
