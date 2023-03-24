@@ -9,7 +9,7 @@ Përshëndetje, مرحبًا, Ahoj, Hej, Привет, Hallo, 안녕하세요, H
 
 ![Line](https://user-images.githubusercontent.com/126211151/226038150-d6f23b1f-9e59-438d-83a2-a6bdb1bbba4c.svg)
 
-### I'm a Father of two, here to apply what I learned and gain practical experience:-
+### 👋I'm a Father of two, here to apply what I learned and gain practical experience:-
 
 💻  I used to Dream Weave now it's VS Code <br>
 📚  I’m currently learning everything <br>
